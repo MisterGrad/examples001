@@ -1,0 +1,15 @@
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\bin\Debug\net6.0\my_examples.exe
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\bin\Debug\net6.0\my_examples.deps.json
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\bin\Debug\net6.0\my_examples.runtimeconfig.json
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\bin\Debug\net6.0\my_examples.dll
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\bin\Debug\net6.0\my_examples.pdb
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\obj\Debug\net6.0\my_examples.csproj.AssemblyReference.cache
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\obj\Debug\net6.0\my_examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\obj\Debug\net6.0\my_examples.AssemblyInfoInputs.cache
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\obj\Debug\net6.0\my_examples.AssemblyInfo.cs
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\obj\Debug\net6.0\my_examples.csproj.CoreCompileInputs.cache
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\obj\Debug\net6.0\my_examples.dll
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\obj\Debug\net6.0\refint\my_examples.dll
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\obj\Debug\net6.0\my_examples.pdb
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\obj\Debug\net6.0\my_examples.genruntimeconfig.cache
+C:\Users\Gradoboev\Documents\geekbrains\Homework\CSharp (C#)\new_examples\my_examples\obj\Debug\net6.0\ref\my_examples.dll
